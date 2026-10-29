@@ -44,6 +44,18 @@ AWS, Jupyter Notebook, VS Code, Git, GitHub
 
 ---
 
+## Experience
+
+**Data Analyst Intern — Hallmark Global Technologies Ltd, India**
+*August 2024 – April 2025*
+
+- Analysed business datasets using SQL and Python to uncover trends and support data-driven decision-making.
+- Built and delivered 3+ Power BI dashboards to track KPIs and operational performance metrics.
+- Cleaned, validated, and transformed raw datasets to improve data quality and ensure reporting accuracy.
+- Collaborated with the health team to understand business requirements and translate them into structured analytical solutions.
+
+---
+
 ## Projects
 
 | Project | Domain | Stack |
