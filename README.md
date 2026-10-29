@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Nithinsai%20Jatoth&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Data%20Analytics%20%26%20Business%20Intelligence&descSize=16&descAlignY=75&descColor=dddddd" width="100%" />
+# Nithinsai Jatoth
+
+### Data Analytics & Business Intelligence
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1200&color=555555&center=true&vCenter=true&width=600&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau+%C2%B7+Excel;Data+Analyst+%C2%B7+Business+Analyst+%C2%B7+BI+Analyst;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=555555&center=true&vCenter=true&width=600&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau+%C2%B7+Excel;Data+Analyst+%C2%B7+Business+Analyst+%C2%B7+BI+Analyst;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
